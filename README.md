@@ -1,5 +1,7 @@
 AstraCore — Advanced Discord Bot
+
 AstraCore è un bot Discord modulare progettato per offrire funzionalità avanzate per server gaming, community e team ProClub.
+
 Include sistemi musicali, pannelli ruoli, gestione statistiche ProClub, player card grafiche, OCR, automazioni e molto altro.
 
 *** FUNZIONALITA' PRINCIPALI ***
