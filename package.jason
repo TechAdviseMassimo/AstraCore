@@ -1,0 +1,39 @@
+{
+  "name": "AstraCore",
+  "version": "2.0.0",
+  "description": "AstraCore — Discord bot modulare e leggero con funzionalità di benvenuto, musica (Wavelink) e pannelli ruoli universali con emoji.",
+  "author": "TechAdvise di Massimo Arrivabene",
+  "license": "MIT",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tuo-user/AstraCore.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/tuo-user/AstraCore/issues"
+  },
+
+  "homepage": "https://github.com/tuo-user/AstraCore#readme",
+
+  "scripts": {
+    "start": "python main.py",
+    "lint": "echo \"Lint non configurato per questo progetto\"",
+    "check": "echo \"AstraCore è un bot Python, nessun check JS necessario\""
+  },
+
+  "keywords": [
+    "discord",
+    "discord-bot",
+    "music",
+    "wavelink",
+    "welcome",
+    "role-panel",
+    "emoji",
+    "astra",
+    "astracore"
+  ],
+
+  "dependencies": {},
+  "devDependencies": {}
+}
