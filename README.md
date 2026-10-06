@@ -3,6 +3,7 @@ AstraCore è un bot Discord modulare progettato per offrire funzionalità avanza
 Include sistemi musicali, pannelli ruoli, gestione statistiche ProClub, player card grafiche, OCR, automazioni e molto altro.
 
 *** FUNZIONALITA' PRINCIPALI ***
+
 SISTEMA DI BENVENUTO
 - Messaggi di benvenuto automatici per i nuovi membri
 - Embed personalizzati con:
@@ -54,6 +55,7 @@ PANNELLI RUOLI UNIVERSALI
 - File .env con token e credenziali
 
 *** CREDITS ***
+
 AstraCore è sviluppato da TechAdvise di Massimo Arrivabene, con focus su:
 - semplicità
 - stabilità
